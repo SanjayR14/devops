@@ -9,6 +9,7 @@ for i in range(r):
         row.append(value)
     array.append(row)
     
+    print("answer")
 print(array)
 
         
